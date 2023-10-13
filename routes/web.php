@@ -12,6 +12,7 @@ use Illuminate\Support\Facades\Route;
 | contains the "web" middleware group. Now create something great!
 |
 */
+//This is change into this file to check about to upate
 Route::get('/', function () {
     return view('welcome');
 });
